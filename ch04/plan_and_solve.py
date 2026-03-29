@@ -1,5 +1,5 @@
-from ch04.ReAct.executor_planner import Planner, Executor
-from ch04.ReAct.llm_agent import HelloAgentsLLM
+from ch04.executor_planner import Planner, Executor
+from ch04.llm_agent import HelloAgentsLLM
 
 
 class PlanAndSolveAgent:
